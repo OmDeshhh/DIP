@@ -15,7 +15,7 @@ This Python application allows users to upload a thermal-style image, automatica
 
 ---
 
-## 🖥 Demo Screenshot
+## 🖥 Sample Image for Trying Out
 
 <img src="sample.jpg" width="600" alt="Thermal Detection UI"/>
 
